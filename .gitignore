@@ -39,3 +39,6 @@ msbuild.wrn
 # System Files
 .DS_Store
 Thumbs.db
+
+!packages/repositories.config
+packages/
